@@ -1,0 +1,29 @@
+{
+  "name": "zero-to-touch",
+  "version": "1.0.0",
+  "description": "> 这是 **零到全栈 · 模块 4.1：现代前端第一步——模块化** 的配套代码——\r > 网站**模块化改造之前**的起点版本。",
+  "homepage": "https://github.com/zjx-666-ai/-zero-to-tech#readme",
+  "bugs": {
+    "url": "https://github.com/zjx-666-ai/-zero-to-tech/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjx-666-ai/-zero-to-tech.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.2.2"
+  },
+  "dependencies": {
+    "animejs": "^4.5.0"
+  }
+}
